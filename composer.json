@@ -33,6 +33,11 @@
         "egeloen/ckeditor-bundle": "CKEditor Bundle by Egeloen",
         "trsteel/ckeditor-bundle": "CKEditor Bundle by trsteel"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.1.x-dev"
+        }
+    },
     "autoload": {
         "psr-4": { "FM\\ElfinderBundle\\": "" }
     }
